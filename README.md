@@ -41,13 +41,6 @@ Live Demo: [Ajay's Calculator](https://ajay12git.github.io/Simple-JavaScript-Cal
 
 ---
 
-## Screenshots
-
-![Calculator Screenshot](images/screenshot.png)  
-*(Add a screenshot for maximum impact. Your repo deserves it.)*
-
----
-
 ## License
 
 Open-source, free for you to play, tweak, or admire. MIT License, because math should be free.  
